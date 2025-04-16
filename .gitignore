@@ -1,0 +1,25 @@
+# Go modullari va binary fayllar
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+vendor/
+
+# Test va log fayllar
+*.test
+*.out
+*.log
+
+# Muvaqqat fayllar
+*.swp
+*.swo
+*~
+
+# IDE sozlamalari
+.vscode/
+.idea/
+
+# Mu hit fayllar
+.env
